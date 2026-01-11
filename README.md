@@ -1,3 +1,3 @@
 # Day 7 - Weather App
 
-Link: https://antonioooooooooooo.github.io/weather/
+Link: https://anton-schukin.github.io/weather/
